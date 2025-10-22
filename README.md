@@ -11,6 +11,5 @@ https://www.tinkercad.com/things/hfMTGVg3P9j/editel?returnTo=%2Fdashboard%2Fdesi
 
 # Físico
 
-<img src="https://files.slack.com/files-tmb/T08BEMH5QVA-F09MZDZ64US-caf6651685/img_7344_720.jpg" alt="IMG_7344"/><img width="540" height="720" alt="image" src="https://github.com/user-attachments/assets/5b1147f7-9c32-4dc4-bef4-d6d6e8f6fced" />
-
+<img width="540" height="720" alt="image" src="https://github.com/user-attachments/assets/2aa857a2-56f8-424d-83e5-925fd1736e71" />
 
